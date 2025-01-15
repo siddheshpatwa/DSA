@@ -24,8 +24,6 @@ public class Binary_search {
     }
         else{     
             return  mid;}
-      
-    
     }
        return -1;
     }
@@ -40,3 +38,7 @@ public class Binary_search {
         }
     }
 }
+//best case o(1)
+// worst case o(log n)
+//Average case: O(log n) 
+//Space Complexity: O(1)
