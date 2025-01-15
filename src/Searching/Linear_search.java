@@ -29,3 +29,13 @@ public class Linear_search {
 //worst case is o(n)
 //best case is o(1)
 //space complexity o(1)
+
+/*
+echo "# DSA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/siddheshpatwa/DSA
+git push -u origin main
+*/
